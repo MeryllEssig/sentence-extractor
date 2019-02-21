@@ -1,6 +1,6 @@
 # Sentence Extractor
 
-This project is aimed at providing a tool for auto-extracting sentences from text corpus (txt files) in a specific language, to create a corpus of sentences for Mozilla [https://common-voice.github.io/sentence-collector](Sentence Collector). 
+This project is aimed at providing a tool for auto-extracting sentences from text corpus (txt files) in a specific language, to create a corpus of sentences for Mozilla [Sentence Collector](https://common-voice.github.io/sentence-collector). 
 
 ## Install dependencies
 
